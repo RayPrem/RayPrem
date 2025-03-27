@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prem Tharu</h1>
 <h3 align="center">A SOC Analyst/Penetration Tester from Nepal</h3>
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/Ray.Prem.png" alt="Your Image Badge" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayprem&label=Profile%20views&color=0e75b6&style=flat" alt="rayprem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayprem" alt="rayprem" /></a> </p>
 
 - 📫 How to reach me **rayprem987@gmail.com**
 
