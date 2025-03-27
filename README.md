@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 I'm Cybersecurity Engineer
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3933621" style='border:none;'></iframe>
 
 <!--
 **RayPrem/RayPrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
