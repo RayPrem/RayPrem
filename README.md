@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prem Tharu</h1>
 <h3 align="center">A SOC Analyst/Penetration Tester from Nepal</h3>
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/Ray.Prem.png" alt="Your Image Badge" /></p>
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3933621" style='border:none;'></iframe>
+<p><img src="https://tryhackme.com/p/Ray.Prem?show_achievement_badge=hash-cracker" alt="Your Image Badge"/>
 </p>
 
 - 📫 How to reach me **rayprem987@gmail.com**
